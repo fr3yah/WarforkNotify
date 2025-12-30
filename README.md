@@ -8,4 +8,7 @@ Features
 - Simple CustomTkinter GUI
 
 Install required libraries with 
-'''pip install customtkinter pystray pillow requests beautifulsoup4 winotify'''
+```bash
+pip install customtkinter pystray pillow requests beautifulsoup4 winotify
+```
+
